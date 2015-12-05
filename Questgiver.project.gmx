@@ -17,8 +17,11 @@
     <sprite>sprites\spr_house_roof</sprite>
     <sprite>sprites\spr_virtualdoor</sprite>
     <sprite>sprites\spr_floor</sprite>
+<<<<<<< HEAD
     <sprite>sprites\spr_test2</sprite>
     <sprite>sprites\spr_test3</sprite>
+=======
+>>>>>>> parent of 40e1b03... test
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_grass</background>
